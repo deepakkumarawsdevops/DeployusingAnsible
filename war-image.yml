@@ -8,5 +8,5 @@
      src: /home/centos/workspace/DepoywarUsingAnsible/target/WebAppCal-1.3.6.war
      dest: /home/ec2-user/apache-tomcat-7.0.94/webapps
 ...
-~
+
 
