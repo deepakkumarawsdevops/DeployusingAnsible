@@ -22,6 +22,8 @@ stages
   steps
   {
     echo 'Deployment'
+
+    sh 'ansible-playbook war-image.yml
   }
 
   }
