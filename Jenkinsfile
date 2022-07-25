@@ -11,8 +11,8 @@ stages
   steps
   {
        sh 'echo "Building" '
-       mvn package
-       mvn install
+       sh 'mvn package'
+       sh 'mvn install'
   } 
 
   } 
