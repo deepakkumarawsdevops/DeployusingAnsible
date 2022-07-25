@@ -23,7 +23,7 @@ stages
   {
     echo 'Deployment'
 
-    sh 'ansible-playbook war-image.yml
+    sh 'ansible-playbook war-image.yml'
   }
 
   }
